@@ -1,5 +1,4 @@
-# cs-quiz-game
-A Simple Computer Science Quiz created with HTML, CSS, and JavaScript
+
 ## CS Quiz Game 
 
 A simple quiz game built using HTML, CSS, and JavaScript.
